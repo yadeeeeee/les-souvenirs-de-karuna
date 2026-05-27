@@ -5,7 +5,7 @@
 
 <img width="426" height="240" alt="gameplay" src="https://github.com/user-attachments/assets/cd92a248-263c-461d-8b24-09b8dee7c609" />
 
-Pour jouer au jeu il suffit de visiter la page itch.io dédié:
+Pour jouer au jeu il suffit de visiter la page itch.io dédié: https://yadeeeee.itch.io/les-souvenirs-de-karuna
 Pour la réalisation de ce projet, j'ai utilisé le code de Loïc Cattani, "loquace", un système de dialogue pour KAPLAY. Toutes les images utilisées sont des images libres de droit, trouvées sur Pexels, que j'ai modifié moi même.
 Aucune IA n'a été mobilisée dans toutes les étapes de ce projet.
 Ce projet a été développé dans le cadre du cours "Développement de jeux vidéo 2D" dispensé par Loïc Cattani (SLI, Lettres, UNIL).
